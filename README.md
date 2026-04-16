@@ -166,6 +166,20 @@ Errors are returned in this structure:
 npm run dev
 ```
 
+### Run with Docker
+
+Build image:
+
+```bash
+docker build -t task-manager .
+```
+
+Run container:
+
+```bash
+docker run --env-file .env -p 3000:3000 task-manager
+```
+
 ## Notes
 
 - `__v` is removed from JSON responses in the Mongoose schema transform.
