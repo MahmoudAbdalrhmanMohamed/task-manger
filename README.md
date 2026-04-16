@@ -7,6 +7,10 @@ A clean full-stack task manager built with **Node.js**, **Express**, **MongoDB**
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-0e8f7e?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Mongoose](https://img.shields.io/badge/Mongoose-ODM-e95f3d?style=for-the-badge)](https://mongoosejs.com/)
 
+## Live Demo
+
+https://taskmanger-furpdg2u.b4a.run/
+
 ## Overview
 
 This project provides:
